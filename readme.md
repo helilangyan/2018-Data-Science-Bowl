@@ -1,6 +1,7 @@
 # 2018 Data Science Bowl
 
-kaggle [2018 Data Science Bowl](https://www.kaggle. com/c/data-science-bowl-2018) 竞赛
+kaggle 
+[2018 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2018) 竞赛
 
 预测结果为所有细胞的位置，使用判断连通图的方法分割成多个，一个细胞一张
 
